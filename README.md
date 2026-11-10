@@ -16,38 +16,40 @@
 
 ## 🛠 Tech Stack
 
-**높음**
+**Language**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PyQGIS](https://img.shields.io/badge/PyQGIS-589632?style=flat&logo=qgis&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat)
 
-**보통**
+**Data Analysis / ML**
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
+![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=flat)
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat)
 
-**학습 중**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+**GIS / Spatial**
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![PyQGIS](https://img.shields.io/badge/PyQGIS-589632?style=flat&logo=qgis&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=geopandas&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat)
 
-**학습 예정** · 2026.12 ~ 2027.08
+**Learning** · 2026.11 ~ 2027.08
+![PyTorch](https://img.shields.io/badge/PyTorch-8B949E?style=flat)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-8B949E?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-8B949E?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-8B949E?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-8B949E?style=flat)
-![통계](https://img.shields.io/badge/통계-8B949E?style=flat)
 ![추천시스템 (item-kNN · GRU4Rec · SASRec)](https://img.shields.io/badge/추천시스템_(item--kNN_·_GRU4Rec_·_SASRec)-8B949E?style=flat)
 ![PySpark](https://img.shields.io/badge/PySpark-8B949E?style=flat)
 ![A/B 테스트](https://img.shields.io/badge/A%2FB_테스트-8B949E?style=flat)
 ![인과추론](https://img.shields.io/badge/인과추론-8B949E?style=flat)
 ![오프라인 정책 평가](https://img.shields.io/badge/오프라인_정책_평가-8B949E?style=flat)
-![선형대수 · 확률](https://img.shields.io/badge/선형대수_·_확률-8B949E?style=flat)
-![알고리즘](https://img.shields.io/badge/알고리즘-8B949E?style=flat)
 
 ---
 
