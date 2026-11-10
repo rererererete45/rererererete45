@@ -45,7 +45,7 @@
 ![FAISS](https://img.shields.io/badge/FAISS-8B949E?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-8B949E?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-8B949E?style=flat)
-![추천시스템 (item-kNN · GRU4Rec · SASRec)](https://img.shields.io/badge/추천시스템_(item--kNN_·_GRU4Rec_·_SASRec)-8B949E?style=flat)
+![추천시스템](https://img.shields.io/badge/추천시스템-8B949E?style=flat)
 ![PySpark](https://img.shields.io/badge/PySpark-8B949E?style=flat)
 ![A/B 테스트](https://img.shields.io/badge/A%2FB_테스트-8B949E?style=flat)
 ![인과추론](https://img.shields.io/badge/인과추론-8B949E?style=flat)
