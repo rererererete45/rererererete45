@@ -2,8 +2,8 @@
 
 **도시공학 학사 · 공간·도시 데이터 Researcher**
 
-공공데이터와 공간정보로 수요를 예측하고 정책 판단의 근거를 만드는 데 관심이 많습니다.
-수요예측, 입지 분석, 네트워크 분석, 경제성 분석(NPV·B/C) 프로젝트를 수행해 왔고, 지금은 추천시스템과 RAG를 공부하고 있습니다.
+데이터로 사람들의 선택과 수요를 예측하는 문제에 관심이 많습니다.
+공공데이터와 공간정보로 수요예측, 입지 분석, 네트워크 분석을 수행해 왔고, 지금은 추천시스템과 RAG로 범위를 넓히고 있습니다.
 
 📫 [Portfolio](https://rererererete45.github.io/rerererete45.github.io/) · [GitHub](https://github.com/rererererete45) · [Email](mailto:yxxyy159@gmail.com)
 
