@@ -19,6 +19,8 @@
 **높음**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PyQGIS](https://img.shields.io/badge/PyQGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat)
 
 **보통**
@@ -29,9 +31,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **학습 중**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![PyQGIS](https://img.shields.io/badge/PyQGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat)
 
