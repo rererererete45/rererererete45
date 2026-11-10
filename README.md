@@ -41,7 +41,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat)
 
-**Learning** · 2026.11 ~ 2027.08
+**Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-8B949E?style=flat)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-8B949E?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-8B949E?style=flat)
