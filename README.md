@@ -25,6 +25,7 @@
 **Data Analysis / ML**
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
 ![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=flat)
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat)
@@ -42,7 +43,6 @@
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat)
 
 **Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-8B949E?style=flat)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-8B949E?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-8B949E?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-8B949E?style=flat)
