@@ -26,8 +26,6 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
-![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=flat)
 ![NetworkX](https://img.shields.io/badge/NetworkX-2C5F8A?style=flat)
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat)
@@ -36,7 +34,6 @@
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![PyQGIS](https://img.shields.io/badge/PyQGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=geopandas&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
