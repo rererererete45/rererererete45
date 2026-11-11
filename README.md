@@ -99,7 +99,7 @@
 `Python` `scikit-learn` `XGBoost` `Random Forest` · 학부 개인 연구 (2024)
 
 ### Side Projects
-[한글 스타일 문서 자동화](https://github.com/rererererete45/hwp-style-automation) · [평양냉면 맛집 지도](https://rererererete45.github.io/rerererete45.github.io/naengmyeon-map.html) · 나라장터 입찰공고 수집 (Python·SQLite·텔레그램) · 연도별 항공사진 수집 (국토지리정보원 API) · [ds-study](https://github.com/rererererete45/ds-study)
+[평양냉면 맛집 지도](https://rererererete45.github.io/rerererete45.github.io/naengmyeon-map.html) · 나라장터 입찰공고 수집 (Python·SQLite·텔레그램) · 연도별 항공사진 수집 (국토지리정보원 API) · [ds-study](https://github.com/rererererete45/ds-study) · [여자아이돌 사전](https://rererererete45.github.io/idol_tier_2026/)
 
 ---
 
