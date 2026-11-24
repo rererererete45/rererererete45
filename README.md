@@ -17,39 +17,43 @@
 ## 🛠 Tech Stack
 
 **Language**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 
 **Data Analysis / ML**
+
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-2C5F8A?style=flat)
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=ibm&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat)
 
 **GIS / Spatial**
+
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![PyQGIS](https://img.shields.io/badge/PyQGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=geopandas&logoColor=white)
 
 **Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autocad&logoColor=white)
 
 **Learning**
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-8B949E?style=flat)
-![FAISS](https://img.shields.io/badge/FAISS-8B949E?style=flat)
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-8B949E?style=flat&logo=huggingface&logoColor=FFD21E)
+![FAISS](https://img.shields.io/badge/FAISS-8B949E?style=flat&logo=meta&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8B949E?style=flat)
-![Ollama](https://img.shields.io/badge/Ollama-8B949E?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-8B949E?style=flat&logo=ollama&logoColor=white)
 ![추천시스템](https://img.shields.io/badge/추천시스템-8B949E?style=flat)
-![PySpark](https://img.shields.io/badge/PySpark-8B949E?style=flat)
-![A/B 테스트](https://img.shields.io/badge/A%2FB_%ED%85%8C%EC%8A%A4%ED%8A%B8-8B949E?style=flat)
+![PySpark](https://img.shields.io/badge/PySpark-8B949E?style=flat&logo=apachespark&logoColor=E25A1C)
+![A/B 테스트](https://img.shields.io/badge/A%2FB_테스트-8B949E?style=flat)
 ![인과추론](https://img.shields.io/badge/인과추론-8B949E?style=flat)
-![오프라인 정책 평가](https://img.shields.io/badge/오프라인_정책_평가-8B949E?style=flat)
 
 ---
 
