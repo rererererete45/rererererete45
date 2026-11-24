@@ -47,7 +47,7 @@
 ![Ollama](https://img.shields.io/badge/Ollama-8B949E?style=flat)
 ![추천시스템](https://img.shields.io/badge/추천시스템-8B949E?style=flat)
 ![PySpark](https://img.shields.io/badge/PySpark-8B949E?style=flat)
-![A/B 테스트](https://img.shields.io/badge/A%2FB_테스트-8B949E?style=flat)
+![A/B 테스트](https://img.shields.io/badge/A%2FB_%ED%85%8C%EC%8A%A4%ED%8A%B8-8B949E?style=flat)
 ![인과추론](https://img.shields.io/badge/인과추론-8B949E?style=flat)
 ![오프라인 정책 평가](https://img.shields.io/badge/오프라인_정책_평가-8B949E?style=flat)
 
