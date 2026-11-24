@@ -49,7 +49,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-8B949E?style=flat&logo=huggingface&logoColor=FFD21E)
 ![FAISS](https://img.shields.io/badge/FAISS-8B949E?style=flat&logo=meta&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8B949E?style=flat)
-![Ollama](https://github.com/ollama/ollama/issues/2152#issuecomment-1905286922)
+![Ollama](https://img.shields.io/badge/Ollama-8B949E?style=flat&logo=ollama&logoColor=white)
 ![추천시스템](https://img.shields.io/badge/추천시스템-8B949E?style=flat)
 ![PySpark](https://img.shields.io/badge/PySpark-8B949E?style=flat&logo=apachespark&logoColor=E25A1C)
 ![A/B 테스트](https://img.shields.io/badge/A%2FB_테스트-8B949E?style=flat)
